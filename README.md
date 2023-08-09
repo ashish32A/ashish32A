@@ -1,3 +1,5 @@
+
+![logo](https://github.com/ashish32A/ashish32A/blob/main/action.png)
 <h1 align="center">Hi 👋, I'm Ashish Singh</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="coding" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">

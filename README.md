@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish32a&label=Profile%20views&color=0e75b6&style=flat" alt="ashish32a" /> </p>
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning ** Flutter **
 
 - 📫 How to reach me **ashishsingh923692gmail.com**
 

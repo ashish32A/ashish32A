@@ -1,16 +1,25 @@
 
 ![logo](https://github.com/ashish32A/ashish32A/blob/main/action.png)
 <h1 align="center">Hi 👋, I'm Ashish Singh</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish32a&label=Profile%20views&color=0e75b6&style=flat" alt="ashish32a" /> </p>
 
-- 🌱 I’m currently learning ** Flutter **
+# 👋 Hello there!
 
-- 📫 How to reach me **ashishsingh923692gmail.com**
+I love connecting with different people, so if you want to say hi, I'll be happy to meet you more! 😊🌍
 
-- ⚡ Fun fact **I am Funny**
+Feel free to connect or reach out via social platforms — I'm always up for a good chat! 💬✨
+
+![Let's Connect](https://raw.githubusercontent.com/your-username/your-repo/main/connect-banner.png)
+
+## 🚀 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/ashish32)
+- 💻 [Portfolio](https://yourportfolio.com)
+
+> “Strangers are just friends waiting to happen.” 🌈
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
